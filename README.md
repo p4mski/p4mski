@@ -1,12 +1,12 @@
 <img src="https://media1.tenor.com/m/FdkizojcGNwAAAAd/bleach-ichigo.gif" width="950">
 
-<h1 align="center">Greetings!<img width="55" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">im p4mski</h1>
+<h1 align="center">Greetings!<img width="45" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png">im p4mski</h1>
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Ola!, im p4m or pam! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> -->
-
-Welcome to my GitHub profile! I am a student who is learning to code.
+<br>
+Welcome to my GitHub profile ! I am a student who is learning to code.
 
 My real name is not pam. But people always call me pam, so that I go by the name "pam"
 <br>
@@ -21,26 +21,29 @@ My real name is not pam. But people always call me pam, so that I go by the name
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" /> &nbsp; Connect With Me! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" />
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" /> &nbsp; Connect With Me ! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" />
 
-<a href="https://x.com/pamskitod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pamskitod" height="30" width="40" /></a> **ㅡ [Twitter](https://x.com/pamskitod)**
+<a href="https://x.com/pamskitod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pamskitod" height="30" width="40" /></a> **ㅡ [Twitter/X](https://x.com/pamskitod)**
 <a href="https://instagram.com/p4mskitod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p4mskitod" height="30" width="40" /></a> **ㅡ [Instagram](https://instagram.com/p4mskitod/)**
+<a href="https://www.youtube.com/@wiriyuts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wiriyuts" height="45" width="35" /></a> **ㅡ [YouTube](https://www.youtube.com/@wiriyuts)**
 
 <a href="https://open.spotify.com/user/z5ceiji9counw38altjnkk8sv?si=0bdee31b023e42e7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="K./" height="30" width="40" /></a> **ㅡ [Spotify](https://open.spotify.com/user/z5ceiji9counw38altjnkk8sv?si=0bdee31b023e42e7)**
+<a href="https://soundcloud.com/loej-779479960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="loeJ." height="30" width="40" /></a> **ㅡ [SoundCloud](https://soundcloud.com/loej-779479960)**
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ###
 <div align="left">
-  <a href="https://open.spotify.com/user/z5ceiji9counw38altjnkk8sv?si=0bdee31b023e42e7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z5ceiji9counw38altjnkk8sv&count=5&unique=true"" alt="Spotify recently played"  />
-  </a>
   <img width="12" />
-  <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=default&r=bqv" width="260" alt="loeJ.'s Dev Card"/></a>
+  <!-- <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=default&r=bqv" width="260" alt="loeJ.'s Dev Card"/></a> -->
+  <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=wide&r=2gf" width="652" alt="loeJ.'s Dev Card"/></a>
+  
+  <a href="https://open.spotify.com/user/z5ceiji9counw38altjnkk8sv?si=0bdee31b023e42e7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z5ceiji9counw38altjnkk8sv&count=5&unique=true" width="320"" alt="Spotify recently played"/></a>
 </div>
 
 ###
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
-<h3 align="center">Thank You for stopping by!<img width="30" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></h3>
+<h3 align="center">Thank You for stopping by !<img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png"></h3>
