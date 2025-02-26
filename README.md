@@ -36,11 +36,11 @@ My real name is not pam. But people always call me pam, so that I go by the name
 ###
 <div align="left">
   <img width="12" />
-  <!-- <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=default&r=bqv" width="260" alt="loeJ.'s Dev Card"/></a> -->
-  <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=wide&r=2gf" width="652" alt="loeJ.'s Dev Card"/></a>
+  <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=default&r=bqv" width="264" alt="loeJ.'s Dev Card"/></a>
+  <!-- <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=wide&r=2gf" width="652" alt="loeJ.'s Dev Card"/></a> -->
   
   <a href="https://open.spotify.com/user/z5ceiji9counw38altjnkk8sv?si=0bdee31b023e42e7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z5ceiji9counw38altjnkk8sv&count=5&unique=true" width="320"" alt="Spotify recently played"/></a>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z5ceiji9counw38altjnkk8sv&count=5&unique=true"" alt="Spotify recently played"/></a>
 </div>
 
 ###
