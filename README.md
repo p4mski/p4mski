@@ -38,18 +38,19 @@ My real name is not pam. But people always call me pam, so that I go by the name
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ###
-<div align="left">
+<!-- <div align="left">
   <img width="12" />
   <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=default&r=bqv" width="264" alt="loeJ.'s Dev Card"/></a>
-  <!-- <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=wide&r=2gf" width="652" alt="loeJ.'s Dev Card"/></a> -->
+  <!-- <a href="https://app.daily.dev/notjoelma"><img src="https://api.daily.dev/devcards/v2/YlBLhX615dJEqytDTr1CJ.png?type=wide&r=2gf" width="652" alt="loeJ.'s Dev Card"/></a>
   
   <a href="https://open.spotify.com/user/z5ceiji9counw38altjnkk8sv?si=0bdee31b023e42e7">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=z5ceiji9counw38altjnkk8sv&count=5&unique=true"" alt="Spotify recently played"/></a>
-</div>
+</div> 
 
 ###
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
 <h3 align="center">Thank You for stopping by !<img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png"></h3>
 
+<br>
 <img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="1100"/>
