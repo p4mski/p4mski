@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/FdkizojcGNwAAAAd/bleach-ichigo.gif" width="950">
+<img src="https://media1.tenor.com/m/FdkizojcGNwAAAAd/bleach-ichigo.gif" width="1100">
 
 <h1 align="center">Greetings!<img width="45" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png">im p4mski</h1>
 
@@ -51,3 +51,5 @@ My real name is not pam. But people always call me pam, so that I go by the name
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 <h3 align="center">Thank You for stopping by !<img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png"></h3>
+
+<img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="1100"/>
