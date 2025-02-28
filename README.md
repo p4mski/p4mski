@@ -21,7 +21,7 @@ My real name is not pam. But people always call me pam, so that I go by the name
 
 <!-- ![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" /> &nbsp; Connect With Me ! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" />
 
